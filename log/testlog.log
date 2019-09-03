@@ -1,0 +1,261 @@
+2019-08-14 18:40:00,676 - Test_czentrix -INFO - start open browser test case
+2019-08-14 19:28:50,068 - Test_czentrix -INFO - start open browser test case
+2019-08-14 19:28:51,112 - open browser method -INFO - start open browser method
+2019-08-14 19:29:25,977 - Test_czentrix -INFO - start open browser test case
+2019-08-14 19:29:26,935 - open browser method -INFO - start open browser method
+2019-08-14 19:31:10,728 - Data base method -INFO - start data base method
+2019-08-14 19:31:13,596 - Ready button test case -INFO - start ready button   test case
+2019-08-14 19:31:45,835 - Screen shot method -INFO - start screen shot method
+2019-08-14 19:31:46,299 - Data base method -INFO - start data base method
+2019-08-14 19:31:46,671 - Ready button test case extent report -INFO - start ready button   test case extent report method 
+2019-08-14 19:31:46,699 - get result method -INFO - start get result  method
+2019-08-14 19:31:46,728 - Preview button test case -INFO - start preview button   test case
+2019-08-14 19:31:48,903 - Data base method -INFO - start data base method
+2019-08-14 19:31:51,304 - Preview button test case extent report method -INFO - start preview button   test case extent report
+2019-08-14 19:31:51,329 - get result method -INFO - start get result  method
+2019-08-14 19:31:51,369 - Progressive button test case -INFO - start pogressive button   test case
+2019-08-14 19:31:52,612 - Data base method -INFO - start data base method
+2019-08-14 19:31:55,239 - Progressive button test case extent report -INFO - start pogressive button   test case extent report method
+2019-08-14 19:31:55,270 - get result method -INFO - start get result  method
+2019-08-14 19:31:55,309 - Break test case -INFO - start brak test case
+2019-08-14 19:31:58,018 - Data base method -INFO - start data base method
+2019-08-14 19:31:58,543 -  extent report Break test case -INFO - start brak test case extent report method
+2019-08-14 19:31:58,558 - get result method -INFO - start get result  method
+2019-08-14 19:31:58,574 - Back test case -INFO - start back test case
+2019-08-14 19:31:58,657 - Data base method -INFO - start data base method
+2019-08-14 19:32:01,323 -  extent report Break test case -INFO - start back test case extent report method
+2019-08-14 19:32:01,389 - get result method -INFO - start get result  method
+2019-08-14 19:32:01,460 - Switch to auto mode  test case -INFO - start Switch to auto mode  test case
+2019-08-14 19:32:05,999 - Data base method -INFO - start data base method
+2019-08-14 19:32:07,209 - Switch to auto mode  test case extent report -INFO - start Switch to auto mode  test case extent report method 
+2019-08-14 19:32:07,253 - get result method -INFO - start get result  method
+2019-08-14 19:32:07,302 - Back to auto mode  test case -INFO - start back to auto mode  test case
+2019-08-14 19:32:09,619 - Data base method -INFO - start data base method
+2019-08-14 19:32:12,173 - Back to auto mode  test case extent report  -INFO - start back to auto mode  test case extent report method 
+2019-08-14 19:32:12,203 - get result method -INFO - start get result  method
+2019-08-14 19:32:12,229 - Make call test case -INFO - start make call  test case
+2019-08-14 19:32:42,438 - Screen shot method -INFO - start screen shot method
+2019-08-14 19:32:56,724 - Close alert method -INFO - start close Alert  method
+2019-08-14 19:32:56,923 - Data base method -INFO - start data base method
+2019-08-14 19:33:08,750 - Data base method -INFO - start data base method
+2019-08-14 19:33:10,988 - make_call test case extent report method -INFO - start make_call  test case extent report method
+2019-08-14 19:33:11,002 - get result method -INFO - start get result  method
+2019-08-14 19:33:11,016 - Redial button test case -INFO - start redial button   test case
+2019-08-14 19:33:21,871 - Data base method -INFO - start data base method
+2019-08-14 19:33:22,349 - Redial button test case extent report -INFO - start redial button   test case extent report method 
+2019-08-14 19:33:22,376 - get result method -INFO - start get result  method
+2019-08-14 19:33:22,399 - Logout test case -INFO - start logout  method
+2019-08-14 19:33:22,745 - Close alert method -INFO - start close Alert  method
+2019-08-14 19:33:23,863 - Data base method -INFO - start data base method
+2019-08-14 19:33:24,227 - Logout test extent report -INFO - start logout extent report method
+2019-08-14 19:33:24,242 - get result method -INFO - start get result  method
+2019-08-28 12:33:54,823 - Test_czentrix -INFO - start open browser test case
+2019-08-28 12:33:56,829 - open browser method -INFO - start open browser method
+2019-08-28 12:34:42,281 - Data base method -INFO - start data base method
+2019-08-28 14:36:40,965 - Test_czentrix -INFO - start open browser test case
+2019-08-28 14:36:42,109 - open browser method -INFO - start open browser method
+2019-08-28 14:37:13,880 - Data base method -INFO - start data base method
+2019-08-30 11:17:56,833 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:17:58,863 - open browser method -INFO - start open browser method
+2019-08-30 11:18:44,709 - Data base method -INFO - start data base method
+2019-08-30 11:20:40,011 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:20:40,801 - open browser method -INFO - start open browser method
+2019-08-30 11:21:57,021 - Data base method -INFO - start data base method
+2019-08-30 11:22:45,534 - Ready button test case -INFO - start ready button   test case
+2019-08-30 11:22:48,228 - Data base method -INFO - start data base method
+2019-08-30 11:22:48,682 - Ready button test case extent report -INFO - start ready button   test case extent report method 
+2019-08-30 11:22:48,757 - get result method -INFO - start get result  method
+2019-08-30 11:22:48,856 - Preview button test case -INFO - start preview button   test case
+2019-08-30 11:22:51,072 - Data base method -INFO - start data base method
+2019-08-30 11:22:51,274 - Preview button test case extent report method -INFO - start preview button   test case extent report
+2019-08-30 11:22:51,293 - get result method -INFO - start get result  method
+2019-08-30 11:22:51,322 - Progressive button test case -INFO - start pogressive button   test case
+2019-08-30 11:22:52,771 - Data base method -INFO - start data base method
+2019-08-30 11:22:52,804 - Progressive button test case extent report -INFO - start pogressive button   test case extent report method
+2019-08-30 11:22:52,815 - get result method -INFO - start get result  method
+2019-08-30 11:22:52,847 - Break test case -INFO - start brak test case
+2019-08-30 11:22:55,477 - Data base method -INFO - start data base method
+2019-08-30 11:22:55,744 -  extent report Break test case -INFO - start brak test case extent report method
+2019-08-30 11:22:55,768 - get result method -INFO - start get result  method
+2019-08-30 11:22:55,779 - Back test case -INFO - start back test case
+2019-08-30 11:22:56,702 - Data base method -INFO - start data base method
+2019-08-30 11:22:57,012 -  extent report Break test case -INFO - start back test case extent report method
+2019-08-30 11:22:57,210 - get result method -INFO - start get result  method
+2019-08-30 11:22:57,380 - Switch to auto mode  test case -INFO - start Switch to auto mode  test case
+2019-08-30 11:23:10,973 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:23:13,732 - open browser method -INFO - start open browser method
+2019-08-30 11:23:34,044 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:23:37,041 - Data base method -INFO - start data base method
+2019-08-30 11:23:37,077 - Switch to auto mode  test case extent report -INFO - start Switch to auto mode  test case extent report method 
+2019-08-30 11:23:37,107 - get result method -INFO - start get result  method
+2019-08-30 11:23:37,140 - Back to auto mode  test case -INFO - start back to auto mode  test case
+2019-08-30 11:24:09,670 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:24:09,890 - Data base method -INFO - start data base method
+2019-08-30 11:24:09,930 - Back to auto mode  test case extent report  -INFO - start back to auto mode  test case extent report method 
+2019-08-30 11:24:09,972 - get result method -INFO - start get result  method
+2019-08-30 11:24:11,354 - Make call test case -INFO - start make call  test case
+2019-08-30 11:24:41,516 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:24:52,773 - Data base method -INFO - start data base method
+2019-08-30 11:24:59,775 - Ready button test case -INFO - start ready button   test case
+2019-08-30 11:25:11,874 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:25:32,018 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:25:32,699 - Data base method -INFO - start data base method
+2019-08-30 11:25:32,767 - Ready button test case extent report -INFO - start ready button   test case extent report method 
+2019-08-30 11:25:32,883 - get result method -INFO - start get result  method
+2019-08-30 11:25:32,994 - Preview button test case -INFO - start preview button   test case
+2019-08-30 11:25:33,193 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:25:35,943 - open browser method -INFO - start open browser method
+2019-08-30 11:25:42,072 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:26:05,131 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:26:05,219 - Data base method -INFO - start data base method
+2019-08-30 11:26:06,834 - Preview button test case extent report method -INFO - start preview button   test case extent report
+2019-08-30 11:26:06,860 - get result method -INFO - start get result  method
+2019-08-30 11:26:06,961 - Progressive button test case -INFO - start pogressive button   test case
+2019-08-30 11:26:08,800 - Data base method -INFO - start data base method
+2019-08-30 11:26:08,869 - Progressive button test case extent report -INFO - start pogressive button   test case extent report method
+2019-08-30 11:26:08,983 - get result method -INFO - start get result  method
+2019-08-30 11:26:09,246 - Break test case -INFO - start brak test case
+2019-08-30 11:26:12,377 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:26:12,464 - Data base method -INFO - start data base method
+2019-08-30 11:26:12,981 -  extent report Break test case -INFO - start brak test case extent report method
+2019-08-30 11:26:12,994 - get result method -INFO - start get result  method
+2019-08-30 11:26:13,008 - Back test case -INFO - start back test case
+2019-08-30 11:26:13,406 - Data base method -INFO - start data base method
+2019-08-30 11:26:13,497 -  extent report Break test case -INFO - start back test case extent report method
+2019-08-30 11:26:13,509 - get result method -INFO - start get result  method
+2019-08-30 11:26:13,862 - Switch to auto mode  test case -INFO - start Switch to auto mode  test case
+2019-08-30 11:26:18,663 - get result method -INFO - start get result  method
+2019-08-30 11:26:18,691 - get result method -INFO - start get result  method
+2019-08-30 11:26:18,707 - Back to auto mode  test case -INFO - start back to auto mode  test case
+2019-08-30 11:26:20,148 - Redial button test case -INFO - start redial button   test case
+2019-08-30 11:26:50,792 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:26:50,893 - Data base method -INFO - start data base method
+2019-08-30 11:26:50,923 - Back to auto mode  test case extent report  -INFO - start back to auto mode  test case extent report method 
+2019-08-30 11:26:50,944 - get result method -INFO - start get result  method
+2019-08-30 11:26:51,240 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:26:51,271 - Make call test case -INFO - start make call  test case
+2019-08-30 11:27:21,458 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:27:22,474 - Data base method -INFO - start data base method
+2019-08-30 11:27:25,517 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:27:25,668 - Data base method -INFO - start data base method
+2019-08-30 11:27:25,706 - Redial button test case extent report -INFO - start redial button   test case extent report method 
+2019-08-30 11:27:25,726 - get result method -INFO - start get result  method
+2019-08-30 11:27:25,997 - Logout test case -INFO - start logout  method
+2019-08-30 11:27:27,134 - Close alert method -INFO - start close Alert  method
+2019-08-30 11:27:28,457 - Data base method -INFO - start data base method
+2019-08-30 11:27:28,492 - Logout test extent report -INFO - start logout extent report method
+2019-08-30 11:27:28,515 - get result method -INFO - start get result  method
+2019-08-30 11:27:29,128 - get result method -INFO - start get result  method
+2019-08-30 11:27:29,370 - Redial button test case -INFO - start redial button   test case
+2019-08-30 11:27:30,436 - get result method -INFO - start get result  method
+2019-08-30 11:27:30,456 - Logout test case -INFO - start logout  method
+2019-08-30 11:30:23,342 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:30:25,045 - open browser method -INFO - start open browser method
+2019-08-30 11:31:14,362 - Data base method -INFO - start data base method
+2019-08-30 11:31:21,460 - get result method -INFO - start get result  method
+2019-08-30 11:33:05,570 - Test_czentrix -INFO - start open browser test case
+2019-08-30 11:33:06,334 - open browser method -INFO - start open browser method
+2019-08-30 11:33:36,588 - Data base method -INFO - start data base method
+2019-08-30 11:33:39,224 - Ready button test case -INFO - start ready button   test case
+2019-08-30 11:33:41,460 - Data base method -INFO - start data base method
+2019-08-30 11:33:41,499 - Ready button test case extent report -INFO - start ready button   test case extent report method 
+2019-08-30 11:33:41,573 - get result method -INFO - start get result  method
+2019-08-30 11:33:41,649 - Preview button test case -INFO - start preview button   test case
+2019-08-30 11:33:43,808 - Data base method -INFO - start data base method
+2019-08-30 11:33:43,843 - Preview button test case extent report method -INFO - start preview button   test case extent report
+2019-08-30 11:33:43,890 - get result method -INFO - start get result  method
+2019-08-30 11:33:44,010 - Progressive button test case -INFO - start pogressive button   test case
+2019-08-30 11:33:45,909 - Data base method -INFO - start data base method
+2019-08-30 11:33:46,035 - Progressive button test case extent report -INFO - start pogressive button   test case extent report method
+2019-08-30 11:33:46,059 - get result method -INFO - start get result  method
+2019-08-30 11:33:46,134 - Break test case -INFO - start brak test case
+2019-08-30 11:33:49,676 - Data base method -INFO - start data base method
+2019-08-30 11:33:49,950 -  extent report Break test case -INFO - start brak test case extent report method
+2019-08-30 11:33:49,962 - get result method -INFO - start get result  method
+2019-08-30 11:33:49,974 - Back test case -INFO - start back test case
+2019-08-30 11:33:50,143 - Data base method -INFO - start data base method
+2019-08-30 11:33:50,428 -  extent report Break test case -INFO - start back test case extent report method
+2019-08-30 11:33:50,503 - get result method -INFO - start get result  method
+2019-08-30 11:33:50,723 - Switch to auto mode  test case -INFO - start Switch to auto mode  test case
+2019-08-30 11:33:55,374 - Data base method -INFO - start data base method
+2019-08-30 11:33:55,473 - Switch to auto mode  test case extent report -INFO - start Switch to auto mode  test case extent report method 
+2019-08-30 11:33:55,494 - get result method -INFO - start get result  method
+2019-08-30 11:33:55,524 - Back to auto mode  test case -INFO - start back to auto mode  test case
+2019-08-30 11:33:58,161 - Data base method -INFO - start data base method
+2019-08-30 11:33:58,255 - Back to auto mode  test case extent report  -INFO - start back to auto mode  test case extent report method 
+2019-08-30 11:33:58,289 - get result method -INFO - start get result  method
+2019-08-30 11:33:58,367 - Make call test case -INFO - start make call  test case
+2019-08-30 11:34:28,843 - Screen shot method -INFO - start screen shot method
+2019-08-30 11:34:44,931 - Close alert method -INFO - start close Alert  method
+2019-08-30 11:34:45,215 - Data base method -INFO - start data base method
+2019-08-30 11:34:54,362 - Data base method -INFO - start data base method
+2019-08-30 11:34:54,385 - make_call test case extent report method -INFO - start make_call  test case extent report method
+2019-08-30 11:34:54,405 - get result method -INFO - start get result  method
+2019-08-30 11:34:54,434 - Redial button test case -INFO - start redial button   test case
+2019-08-30 11:35:07,055 - Data base method -INFO - start data base method
+2019-08-30 11:35:08,737 - Redial button test case extent report -INFO - start redial button   test case extent report method 
+2019-08-30 11:35:08,799 - get result method -INFO - start get result  method
+2019-08-30 11:35:08,861 - Logout test case -INFO - start logout  method
+2019-08-30 11:35:09,607 - Close alert method -INFO - start close Alert  method
+2019-08-30 11:35:10,705 - Data base method -INFO - start data base method
+2019-08-30 11:35:10,725 - Logout test extent report -INFO - start logout extent report method
+2019-08-30 11:35:10,736 - get result method -INFO - start get result  method
+2019-09-03 14:08:56,025 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:08:56,728 - open browser method -INFO - start open browser method
+2019-09-03 14:10:04,285 - Data base method -INFO - start data base method
+2019-09-03 14:10:37,244 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:10:38,204 - open browser method -INFO - start open browser method
+2019-09-03 14:11:20,413 - Data base method -INFO - start data base method
+2019-09-03 14:11:29,634 - Ready button test case -INFO - start ready button   test case
+2019-09-03 14:11:31,978 - Data base method -INFO - start data base method
+2019-09-03 14:11:32,032 - Ready button test case extent report -INFO - start ready button   test case extent report method 
+2019-09-03 14:11:32,222 - get result method -INFO - start get result  method
+2019-09-03 14:11:32,337 - Preview button test case -INFO - start preview button   test case
+2019-09-03 14:11:34,504 - Data base method -INFO - start data base method
+2019-09-03 14:11:34,719 - Preview button test case extent report method -INFO - start preview button   test case extent report
+2019-09-03 14:11:34,784 - get result method -INFO - start get result  method
+2019-09-03 14:11:34,914 - Progressive button test case -INFO - start pogressive button   test case
+2019-09-03 14:11:36,683 - Data base method -INFO - start data base method
+2019-09-03 14:11:36,868 - Progressive button test case extent report -INFO - start pogressive button   test case extent report method
+2019-09-03 14:11:36,928 - get result method -INFO - start get result  method
+2019-09-03 14:11:37,147 - Break test case -INFO - start brak test case
+2019-09-03 14:11:39,840 - Data base method -INFO - start data base method
+2019-09-03 14:11:41,698 -  extent report Break test case -INFO - start brak test case extent report method
+2019-09-03 14:11:41,814 - get result method -INFO - start get result  method
+2019-09-03 14:11:41,859 - Back test case -INFO - start back test case
+2019-09-03 14:11:42,658 - Data base method -INFO - start data base method
+2019-09-03 14:11:42,771 -  extent report Break test case -INFO - start back test case extent report method
+2019-09-03 14:11:42,789 - get result method -INFO - start get result  method
+2019-09-03 14:11:42,827 - Switch to auto mode  test case -INFO - start Switch to auto mode  test case
+2019-09-03 14:11:47,489 - Data base method -INFO - start data base method
+2019-09-03 14:11:47,540 - Switch to auto mode  test case extent report -INFO - start Switch to auto mode  test case extent report method 
+2019-09-03 14:11:47,560 - get result method -INFO - start get result  method
+2019-09-03 14:11:47,585 - Back to auto mode  test case -INFO - start back to auto mode  test case
+2019-09-03 14:11:49,933 - Data base method -INFO - start data base method
+2019-09-03 14:11:50,165 - Back to auto mode  test case extent report  -INFO - start back to auto mode  test case extent report method 
+2019-09-03 14:11:50,240 - get result method -INFO - start get result  method
+2019-09-03 14:11:50,350 - Make call test case -INFO - start make call  test case
+2019-09-03 14:12:20,721 - Screen shot method -INFO - start screen shot method
+2019-09-03 14:12:34,979 - Close alert method -INFO - start close Alert  method
+2019-09-03 14:12:35,253 - Data base method -INFO - start data base method
+2019-09-03 14:12:43,334 - Data base method -INFO - start data base method
+2019-09-03 14:12:43,364 - make_call test case extent report method -INFO - start make_call  test case extent report method
+2019-09-03 14:12:43,414 - get result method -INFO - start get result  method
+2019-09-03 14:12:43,479 - Redial button test case -INFO - start redial button   test case
+2019-09-03 14:12:54,720 - Data base method -INFO - start data base method
+2019-09-03 14:12:54,830 - Redial button test case extent report -INFO - start redial button   test case extent report method 
+2019-09-03 14:12:54,880 - get result method -INFO - start get result  method
+2019-09-03 14:12:54,937 - Logout test case -INFO - start logout  method
+2019-09-03 14:12:55,503 - Close alert method -INFO - start close Alert  method
+2019-09-03 14:12:56,593 - Data base method -INFO - start data base method
+2019-09-03 14:12:56,631 - Logout test extent report -INFO - start logout extent report method
+2019-09-03 14:12:56,666 - get result method -INFO - start get result  method
+2019-09-03 14:16:08,768 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:16:09,422 - open browser method -INFO - start open browser method
+2019-09-03 14:16:55,305 - Data base method -INFO - start data base method
+2019-09-03 14:21:04,114 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:21:04,733 - open browser method -INFO - start open browser method
+2019-09-03 14:29:07,095 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:29:08,011 - open browser method -INFO - start open browser method
+2019-09-03 14:30:46,856 - Test_czentrix -INFO - start open browser test case
+2019-09-03 14:30:47,477 - open browser method -INFO - start open browser method

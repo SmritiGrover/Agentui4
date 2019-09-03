@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32363" started-at="2019-09-03T09:00:46Z" finished-at="2019-09-03T09:01:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32363" started-at="2019-09-03T09:00:46Z" finished-at="2019-09-03T09:01:18Z">
+      <class name="Test_Base">
+        <test-method status="PASS" signature="before()[pri:0, instance:Test_Base@fad74ee]" name="before" is-config="true" duration-ms="31087" started-at="2019-09-03T14:30:46Z" finished-at="2019-09-03T14:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Test_Base@fad74ee]" name="endReport" is-config="true" duration-ms="1244" started-at="2019-09-03T14:31:17Z" finished-at="2019-09-03T14:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Test_Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
