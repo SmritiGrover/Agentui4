@@ -57,8 +57,9 @@ public class Home_page
 		System.out.println("opening browser");
 		baseUrl = "http://192.168.1.57/";//172.16.2.19
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		Thread.sleep(4000);
-		driver.get(baseUrl);// + "agentui.php"			 
+		Thread.sleep(8000);
+		driver.get(baseUrl);// + "agentui.php"			
+		System.out.println("browser open");
 		/*driver.findElement(By.name("agent_id")).clear();
 		driver.findElement(By.name("agent_id")).sendKeys("3131");		
 		  if(isElementPresent(By.xpath("html/body/form[2]/table[2]/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[5]/td/table/tbody/tr/td/input" )))
